@@ -1,0 +1,14 @@
+C:\Users\3060\Desktop\ProyectoJuego\bin\Debug\net7.0\ProyectoJuego.exe
+C:\Users\3060\Desktop\ProyectoJuego\bin\Debug\net7.0\ProyectoJuego.deps.json
+C:\Users\3060\Desktop\ProyectoJuego\bin\Debug\net7.0\ProyectoJuego.runtimeconfig.json
+C:\Users\3060\Desktop\ProyectoJuego\bin\Debug\net7.0\ProyectoJuego.dll
+C:\Users\3060\Desktop\ProyectoJuego\bin\Debug\net7.0\ProyectoJuego.pdb
+C:\Users\3060\Desktop\ProyectoJuego\obj\Debug\net7.0\ProyectoJuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3060\Desktop\ProyectoJuego\obj\Debug\net7.0\ProyectoJuego.AssemblyInfoInputs.cache
+C:\Users\3060\Desktop\ProyectoJuego\obj\Debug\net7.0\ProyectoJuego.AssemblyInfo.cs
+C:\Users\3060\Desktop\ProyectoJuego\obj\Debug\net7.0\ProyectoJuego.csproj.CoreCompileInputs.cache
+C:\Users\3060\Desktop\ProyectoJuego\obj\Debug\net7.0\ProyectoJuego.dll
+C:\Users\3060\Desktop\ProyectoJuego\obj\Debug\net7.0\refint\ProyectoJuego.dll
+C:\Users\3060\Desktop\ProyectoJuego\obj\Debug\net7.0\ProyectoJuego.pdb
+C:\Users\3060\Desktop\ProyectoJuego\obj\Debug\net7.0\ProyectoJuego.genruntimeconfig.cache
+C:\Users\3060\Desktop\ProyectoJuego\obj\Debug\net7.0\ref\ProyectoJuego.dll
